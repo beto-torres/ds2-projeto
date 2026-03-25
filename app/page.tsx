@@ -8,7 +8,7 @@ export default function Home() {
         alt="imagem remota1"
         width={1500}
         height={1572}
-        className=" rounded-full"
+        className=" rounded-full "
       />
     </div>
   );
